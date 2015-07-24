@@ -49,11 +49,20 @@ h3 {
     font-weight: 300;
 }
 
+.name-greeting {
+    margin-top: 10%;
+    text-align: center;
+    font-size: 45px;
+}
+
+.description {
+    margin-top: 10%;
+}
+
 .full-height {
     padding-top: 50px; 
     height: 85vh;
 }
-
 
 .thumbnail {
     height: 150px;
