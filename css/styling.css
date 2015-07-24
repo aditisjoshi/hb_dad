@@ -50,8 +50,7 @@ h3 {
 }
 
 .full-height {
-    margin-top: 30vh;
-    height: 45vh;
+    height: 85vh;
 }
 
 .thumbnail {
@@ -78,6 +77,11 @@ h3 {
 .thumbnail > img {
     display: inline-block;
     vertical-align: middle;
+}
+
+#interests {
+    background-color: #D3D8DF;
+    padding-top: 30vh;
 }
 
 .socialmedia {
