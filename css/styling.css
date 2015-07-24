@@ -1,14 +1,37 @@
+body {
+    font-family: 'Hind', sans-serif;
+}
+
 .blue-nav {
-    background-color: #2D90DD;
-    border-color: #2D90DD;
+    background-color: #2B3857;
+    border-color: #2B3857;
 }
 
 .navbar-default .navbar-nav > li > a  {
-    color: white;
+    color: #D3D8DF;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #7F889B;
+}
+
+.navbar-default .navbar-nav > li > a:active {
+    color: #556079;
 }
 
 .navbar-default .navbar-brand {
-    color: white;
+    color: #D3D8DF;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #7F889B;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-brand:active {
+    color: #556079;
+    font-weight: 300;
 }
 
 body { 
@@ -17,4 +40,27 @@ body {
 
 img {
     max-width: 100%;
+}
+
+h3 {
+    font-size: 35px;
+    color: #2B3857;
+    border-left: 0.5rem;
+    font-weight: 300;
+}
+
+.thumbnail {
+    height: 150px;
+    width: 250px;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.thumbnail > img {
+    display: inline-block;
+    vertical-align: middle;
 }
