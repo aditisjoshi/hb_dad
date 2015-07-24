@@ -50,8 +50,10 @@ h3 {
 }
 
 .full-height {
+    padding-top: 50px; 
     height: 85vh;
 }
+
 
 .thumbnail {
     height: 150px;
