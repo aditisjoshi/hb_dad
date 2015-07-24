@@ -65,8 +65,7 @@ h3 {
 }
 
 .thumbnail {
-    height: 150px;
-    width: 250px;
+    width: 100%;
 }
 
 .thumbnail:hover {
@@ -95,8 +94,7 @@ h3 {
 }
 
 .socialmedia {
-    height: 50px;
-    width: auto;
+    width: 100%;
 }
 
 .socialmedia:hover {
