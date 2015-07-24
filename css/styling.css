@@ -90,8 +90,14 @@ h3 {
     vertical-align: middle;
 }
 
+.container-workdeets {
+    position: relative;
+}
+
 .workdeetz {
     display: none;
+    position: absolute;
+    left: 10vh;
 }
 
 .socialmedia {
