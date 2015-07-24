@@ -66,6 +66,7 @@ h3 {
 
 .thumbnail {
     width: 100%;
+    height: 30vh;
 }
 
 .thumbnail:hover {
