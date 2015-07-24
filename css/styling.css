@@ -79,9 +79,8 @@ h3 {
     vertical-align: middle;
 }
 
-#interests {
-    background-color: #D3D8DF;
-    padding-top: 30vh;
+.workdeetz {
+    display: none;
 }
 
 .socialmedia {
